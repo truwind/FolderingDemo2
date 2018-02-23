@@ -1,0 +1,6 @@
+framework module Pods_FolderingDemo2 {
+  umbrella header "Pods-FolderingDemo2-umbrella.h"
+
+  export *
+  module * { export * }
+}
